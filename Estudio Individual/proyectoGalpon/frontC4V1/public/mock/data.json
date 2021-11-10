@@ -1,0 +1,29 @@
+{
+    "navbar": [
+        {
+            "caso1": "SERVICIOS",
+            "caso2" : "SOBRE NOSOTROS",
+            "caso3": "NOTICIAS",
+            "caso4": "CONTACTO",
+            "caso5":"REGISTRO"
+        }
+    ],
+
+    "servicios": [
+        {
+            "p1": "Nuestro equipo creativo posee gran experiencia en el desarrollo de páginas web de carga rápida, que se adaptan en teléfonos móviles, tablets y computadoras. Diseñamos y desarrollamos tu ágina web para que conecte con tus clientes potenciales. Nuestro equipo de diseño web trabaja con los mejores procesos y estándares de calidad.",
+            "descripcion" : "¿No tienes página web?. Si no apareces en internet en la actualidad, no existes. Puedes crecer tu empresa rápidamente con nuestro diseño de páginas web. Tus clientes podrán ingresar a tu sitio web desde cualquier dispositivo móvil. Somos tu equipo de diseño web!",
+            "imagen": "https://www.doiser.com/files/servicios_imagenperfil_img/oferta-diseno-paginas-web-zeta-consultores_1477.jpg"
+        },
+        {
+            "titulo": "Desarrollo de aplicaciones moviles",
+            "descripcion" : "Brindamos soluciones de desarrollo de aplicaciones móviles y soporte digital. ¿Cuánto cuesta crear una app? En Rootstack, te asesoramos sobre el diseño de apps y sobre lo que necesitas para el desarrollo.",
+            "imagen": "https://owius.com/wp-content/uploads/2019/07/desarrollo-de-aplicaciones-moviles-hibridas.jpg"
+        },
+        {
+            "titulo": "Soporte tecnico",
+            "descripcion" : "Disfrute de las mejores tarifas y planes de servicio personalizado adaptado a sus necesidades gracias a nuestros contratos flexibles y adaptables...",
+            "imagen": "https://inventivos.biz/wp-content/uploads/2020/05/soporte-tecnico.png"
+        }
+    ]
+}
